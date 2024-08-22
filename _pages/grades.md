@@ -4,7 +4,8 @@ title: "Grades"
 author_profile: true
 ---
 
-The first number indicate the number of credits and the indicate the score I received.
+The first number indicate the number of credits.
+The second number indicate the score I received.
 
 ## Spring 2024
 Atomic Physics A (4) (100)
@@ -54,4 +55,4 @@ Moral and Legal Education (3) (95)
 Critical Thinking in English Communication (2) (95)
 Basic Sports (1) (A)
 
-Up to Fall 2023, my GPA is 4.18 ranking 1/347 in the Physics department.
+My GPA is 4.18 ranking 1/347 in the Physics department.
