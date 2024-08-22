@@ -1,0 +1,67 @@
+---
+permalink: /grades
+title: "About"
+author_profile: true
+redirect_from: 
+  - /grades/
+  - /grades.html
+---
+
+Grades
+======
+
+The square brackets indicate the number of credits and the round brackets indicate the score. Up to Fall 2023, my GPA is 4.18 ranking 1/347 in the Physics department.
+
+Spring 2024
+======
+
+Atomic Physics A [4] (100)
+Electronic Circuits [4] (99)
+Statistical Mechanics [4] (98)
+Electrodynamics [4] (90)
+Algebraic Structure [3] (98)
+Equations of Mathematical Physics A [3] (97)
+College Physics Experiment III [1.5] (81)
+Introduction to Chinese Important Thoughts I [2] (92)
+Badminton II [1] (A+)
+
+Fall 2023
+======
+
+Quantum Mechanics A [6] (95)
+Theoretical Mechanics A [4] (97)
+Graph Theory [4] (96)
+Optics A [4] (91)
+Function of Complex Variable A [3] (96)
+Probability Theory and Mathematical Statistics [3] (93)
+College Physics - Comprehensive Experimentation A [1.5] (86)
+Fundamentals of Marxism [2.5] (92)
+Academic English for Science and Technology A [2] (98)
+Basketball II [1] (A+)
+Spring 2023
+
+Mathematical Analysis B2 [6] (95)
+Linear Algebra B1 [4] (100)
+Electromagnetism A [4] (95)
+Data Structure and Algorithm [3.5] (91)
+Thermotics A [3] (95)
+College Physics - Base Experimentation A [1.5] (90)
+An Outline of Modern and Contemporary Chinese History [2.5] (90)
+Collegiate Psychology [2] (A+)
+Freshman Seminar [1] (A+)
+Scientific Writing and Communication [1] (A+)
+Basketball I [1] (B+)
+
+Fall 2022
+======
+
+Mathematical Analysis B1 [6] (93)
+General Chemistry A [4] (98)
+Mechanics A [4] (90)
+Computer Programming A [4] (90)
+Experiment of Inorganic Chemistry I (EN) [2] (A+)
+College English [4] (100)
+Introduction to Chinese Important Thoughts II [3] (95)
+Moral and Legal Education [3] (95)
+Critical Thinking in English Communication [2] (95)
+Basic Sports [1] (A)
