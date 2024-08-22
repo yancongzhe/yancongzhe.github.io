@@ -1,13 +1,10 @@
 ---
 permalink: /grades
-title: "About"
+title: "Grades"
 author_profile: true
 redirect_from: 
-  - /grades/
   - /grades.html
 ---
-
-# Grades
 
 The first number indicate the number of credits and the indicate the score I received.
 

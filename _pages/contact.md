@@ -1,13 +1,10 @@
 ---
 permalink: /contact
-title: "About"
+title: "Contact"
 author_profile: true
 redirect_from: 
-  - /contact/
   - /contact.html
 ---
-
-# Contact
 
 QQ:2396314265
 WeChat:18514289958
