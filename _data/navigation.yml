@@ -2,14 +2,16 @@
 
 main:
   - title: "Grades"
-    url: /publications/
+    url: /grades/
 
   - title: "Awards"
-    url: /talks/    
+    url: /awards/    
 
   - title: "Interests"
-    url: /teaching/    
+    url: /interests/    
     
   - title: "Labwork"
-    url: /portfolio/
-        
+    url: /labwork/
+
+  - title: "Contact" 
+    url: /contact/     
