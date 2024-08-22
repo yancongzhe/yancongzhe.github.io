@@ -2,16 +2,16 @@
 
 main:
   - title: "Grades"
-    url: /grades/
+    url: /grades
 
   - title: "Awards"
-    url: /awards/    
+    url: /awards  
 
   - title: "Interests"
-    url: /interests/    
+    url: /interests
     
   - title: "Labwork"
-    url: /labwork/
+    url: /labwork
 
   - title: "Contact" 
-    url: /contact/     
+    url: /contact  
