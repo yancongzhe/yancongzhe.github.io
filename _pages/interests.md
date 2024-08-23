@@ -1,6 +1,6 @@
 ---
-permalink: /interests
-title: "Interests"
+permalink: /hobbies
+title: "Hobbies"
 author_profile: true
 ---
 
