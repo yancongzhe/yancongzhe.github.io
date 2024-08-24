@@ -66,7 +66,7 @@ Basic Sports (1) (A)
 
 ## Awards and Scholarships
 
-China High School Biology League Competition, Second Prize, 2021  
+China High School Biology League Competition, Third Prize, 2021  
 China Chemistry Olympiad Preliminary Competition, Second Prize, 2021  
 Beijing High School Mechanics Preliminary Competition, First Prize, 2021  
 Beijing Xicheng District Jinpeng Technology Forum, Second Prize, 2021  

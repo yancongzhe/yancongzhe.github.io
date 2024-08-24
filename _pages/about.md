@@ -12,4 +12,4 @@ I was born in Anhui albeit not in Hefei in July 2007. I was admitted to Beijing 
 
 Then came my sophomore year. I joined the Yan Jici Talent Program in Physics in Fall 2023. I was vague interested in Quantum Optics and joined Professor Xiaoye Xu's laboratory in November 2023. I read the books written by Agarwal and Scully and audited the Quantum Optics course. Unfortunately after half a year of exploring, I found Quantum Optics was not the right thing for me and left the laboratory. I was clearly more interested in Condensed Matter Theory and join Professor Zhenyu Zhang's laboratory in June 2024.
 
-Thats all for now and I'm looking forward to the start of the new semester.
+I'm looking forward to the start of the new semester.
